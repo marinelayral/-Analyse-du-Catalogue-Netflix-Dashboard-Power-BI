@@ -42,6 +42,14 @@ Le brief initial *“In Netflix Data Analyst Shoes”* consistait à analyser le
 6. Recommandations business (genres, pays, publics)
 
 ---
+## 📊 Aperçu du Dashboard Power BI
+
+<a href="./dashboard/Projet_netflix_data_analysis.pbip">
+  <img src="./dashboard/dashboard_overview.png" alt="Aperçu du Dashboard Power BI" width="800">
+</a>
+
+*Clique sur l’image pour ouvrir le fichier Power BI (.pbip)*  
+---
 
 # 📊 Principaux insights
 
@@ -135,5 +143,6 @@ Pour toute question ou collaboration :
 👉 marine.layral@gmail.com
 
 https://www.linkedin.com/in/marine-layral-0207b359/  
+
 
 
