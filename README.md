@@ -105,7 +105,7 @@ L'échantillon IMDb apporte une vraie valeur business mais présente des biais :
 
 # 🚀 Compétences démontrées
 
-- EDA & data cleaning  
+- Data cleaning  
 - Fusion et modélisation multi-sources  
 - DAX avancé & mesures personnalisées  
 - Data visualisation & design UX (branding Netflix)  
@@ -143,6 +143,7 @@ netflix-analysis/
 🔗 LinkedIn : https://www.linkedin.com/in/marine-layral-0207b359/  
 💼 GitHub : https://github.com/marinelayral  
 🌐 Portfolio : *à venir*
+
 
 
 
