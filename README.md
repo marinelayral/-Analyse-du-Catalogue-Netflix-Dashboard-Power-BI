@@ -136,13 +136,15 @@ netflix-analysis/
 - README.md
 
 ---
+
 # 📬 Contact
 
-Pour toute question ou collaboration :  
+📧 Email : *à ajouter*  
+🔗 LinkedIn : https://www.linkedin.com/in/marine-layral-0207b359/  
+💼 GitHub : https://github.com/marinelayral  
+🌐 Portfolio : *à venir*
 
-👉 marine.layral@gmail.com
 
-https://www.linkedin.com/in/marine-layral-0207b359/  
 
 
 
