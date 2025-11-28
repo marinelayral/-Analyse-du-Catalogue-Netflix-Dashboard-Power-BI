@@ -139,10 +139,11 @@ netflix-analysis/
 
 # 📬 Contact
 
-📧 Email : *à ajouter*  
+📧 Email : marine.layral@gmail.com 
 🔗 LinkedIn : https://www.linkedin.com/in/marine-layral-0207b359/  
 💼 GitHub : https://github.com/marinelayral  
 🌐 Portfolio : *à venir*
+
 
 
 
